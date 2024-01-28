@@ -1,4 +1,4 @@
-import { faBriefcase } from '@fortawesome/free-solid-svg-icons';
+import { faCode } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 import { sortedProfessionalExperiences } from 'src/helpers/utils';
 import { SectionHeading } from '../SectionHeading/SectionHeading';
