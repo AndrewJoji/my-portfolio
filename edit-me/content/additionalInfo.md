@@ -10,5 +10,5 @@ title: Hobbies & Interests
 
 - **Hiking** - Nothing beats a breathtaking view after a long hike, forever grateful for Vancouver's natural beauty.
 
-- **Learning** - I have an open mindset and am always looking to grow personally and professionally. I enjoy reading about human psychology amongst other subjects, [currently reading](https://www.goodreads.com/en/book/show/142402923) 
+- **Learning** - I have an open mindset and am always looking to grow personally and professionally. I enjoy reading about human psychology amongst other subjects [(currently reading)](https://www.goodreads.com/en/book/show/142402923).
 
