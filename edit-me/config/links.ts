@@ -2,7 +2,7 @@ import {
   faGithub,
   faInstagram,
   faLinkedin,
-  faEnvelopeOpen,
+  faEnvelope,
   faTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import { CMSLink } from 'edit-me/types/CMSLink';
@@ -20,7 +20,7 @@ export const links: CMSLink[] = [
   },
   {
     href: 'mailto:andrewjoji71@gmail.com',
-    icon: faEnvelopeOpen,
+    icon: faEnvelope,
     title: 'Email',
   },
 ];
