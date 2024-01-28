@@ -7,7 +7,7 @@ interface PDFDownloadButtonProps {
   pdfPath: string; 
 }
 
-cconst PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ pdfPath }) => {
+const PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ pdfPath }) => {
   return (
     <ButtonLink href={pdfPath} size="lg">
       <FontAwesomeIcon icon={faFilePdf} size="lg" />
