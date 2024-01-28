@@ -4,7 +4,7 @@ import React from 'react';
 import ButtonLink from '../Button/ButtonLink';
 
 interface PDFDownloadButtonProps {
-  pdfPath: string; // Add the type for pdfPath here
+  pdfPath: string; 
 }
 
 cconst PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ pdfPath }) => {
