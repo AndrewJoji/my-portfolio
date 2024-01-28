@@ -1,7 +1,10 @@
 ---
-title: Official Job Title
-organization: Some Company
-startDate: August 2019
+title: [Programmer Analyst](https://lnkd.in/g9GDYhrV)
+organization: UBC Student Housing and Community Services
+startDate: Jan 2023 – Aug 2023
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis `nisl rhoncus mattis` rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac. Arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc. Volutpat consequat mauris nunc congue nisi vitae suscipit. Venenatis lectus magna fringilla urna porttitor rhoncus. Id porta nibh venenatis cras. Felis bibendum ut tristique et egestas quis ipsum suspendisse.
+- Converted JNLP apps to web-based platforms using **PHP (Yii2)**, **JavaScript**, **SSRS**, and **SQL**.
+- Ensured backward compatibility between student information and bookstore systems by building a **RESTful API** to integrate them - tested with **Postman**.
+- Cut maintenance needs by 50% by managing a **VDI** migration for 20+ desktops.
+- Reduced high-level support requests by 40% by streamlining stakeholder communication and creating clear documentation.
