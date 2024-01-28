@@ -1,7 +1,8 @@
 ---
 title: Programmer Analyst
 organization: UBC Student Housing and Community Services
-startDate: Jan 2023 – Aug 2023
+startDate: Jan 2023
+endDate: Aug 2023
 ---
 
 - Converted JNLP apps to web-based platforms using **PHP (Yii2)**, **JavaScript**, **SSRS**, and **SQL**.
