@@ -1,11 +1,11 @@
 ---
-title: Volunteer Position
-organization: Some Nonprofit
-startDate: April 2015
-endDate: February 2018
+title: Programmer Analyst
+organization: UBC Student Housing and Community Services
+startDate: Jan 2023 – Aug 2023
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 🎉
-- Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. 🎉
+- Converted JNLP apps to web-based platforms using **PHP (Yii2)**, **JavaScript**, **SSRS**, and **SQL**.
+- Ensured backward compatibility between student information and bookstore systems by building a **RESTful API** to integrate them - tested with **Postman**.
+- Cut maintenance needs by 50% by managing a **VDI** migration for 20+ desktops.
+- Reduced high-level support requests by 40% by streamlining stakeholder communication and creating clear documentation.
+- [Learn More](https://lnkd.in/g9GDYhrV).
