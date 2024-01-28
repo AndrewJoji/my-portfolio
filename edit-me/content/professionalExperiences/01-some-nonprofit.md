@@ -8,4 +8,5 @@ startDate: Jan 2023 – Aug 2023
 - Ensured backward compatibility between student information and bookstore systems by building a **RESTful API** to integrate them - tested with **Postman**.
 - Cut maintenance needs by 50% by managing a **VDI** migration for 20+ desktops.
 - Reduced high-level support requests by 40% by streamlining stakeholder communication and creating clear documentation.
-- [Learn More](https://lnkd.in/g9GDYhrV).
+
+[Learn More](https://lnkd.in/g9GDYhrV).
