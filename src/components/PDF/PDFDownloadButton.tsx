@@ -3,20 +3,30 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import ButtonLink from '../Button/ButtonLink';
 
-interface PDFDownloadButtonProps {
-  secret?: string;
-}
-
-const PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ secret }) => {
+const PDFDownloadButton = ({ pdfPath }) => {
   return (
-  //   <ButtonLink
-  //     href={secret ? `/api/pdf?secret=${secret}` : '/api/pdf'}
-  //     size="lg"
-  //   >
-  //     <FontAwesomeIcon icon={faFilePdf} size="lg" />
-  //     View or Download PDF
-  //   </ButtonLink>
-  // );
+    <ButtonLink href={pdfPath} size="lg">
+      <FontAwesomeIcon icon={faFilePdf} size="lg" />
+      Download PDF
+    </ButtonLink>
+  );
 };
 
+// interface PDFDownloadButtonProps {
+//   secret?: string;
+// }
+
+// const PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ secret }) => {
+//   return (
+//   //   <ButtonLink
+//   //     href={secret ? `/api/pdf?secret=${secret}` : '/api/pdf'}
+//   //     size="lg"
+//   //   >
+//   //     <FontAwesomeIcon icon={faFilePdf} size="lg" />
+//   //     View or Download PDF
+//   //   </ButtonLink>
+//   // );
+// };
 export default PDFDownloadButton;
+
+
