@@ -1,6 +1,6 @@
 ---
 achievement: AWS Cloud Practitioner
-organization: Amazon Web Services
+organization: Amazon Web Services Certification
 completionYear: 2024
 ---
 
