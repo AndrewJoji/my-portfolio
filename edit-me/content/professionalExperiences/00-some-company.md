@@ -1,11 +1,12 @@
 ---
-title: Programmer Analyst
-organization: UBC Student Housing and Community Services
-startDate: Jan 2023 – Aug 2023
+title: Software Developer Extern
+organization: Price Waterhouse Coopers
+startDate: Jan 2024 – Apr 2023
 ---
 
-- Converted JNLP apps to web-based platforms using **PHP (Yii2)**, **JavaScript**, **SSRS**, and **SQL**.
-- Ensured backward compatibility between student information and bookstore systems by building a **RESTful API** to integrate them - tested with **Postman**.
-- Cut maintenance needs by 50% by managing a **VDI** migration for 20+ desktops.
-- Reduced high-level support requests by 40% by streamlining stakeholder communication and creating clear documentation.
-- [Learn More](https://lnkd.in/g9GDYhrV).
+- Managing an **agile** team of 8 developers, while creating a **full stack**, scalable Health and Safety System hosted on **GCP**.
+- Developing workflow and approval processes to accommodate multiple business units, with a focus on the **Firestore** database and **Cloud Run** serverless technology for seamless operation.
+- Targeting a 25% enhancement in highlighting trends in workplace incident types by orchestrating the integration of a **generative AI chatbot** using **Vertex AI**.
+- Implementing alerting and notification features for submission approvals, integrating email and SMS communication channels.
+  
+This project is an externship as part of a university course, collaborating with PwC professionals through the entire Software Development Life Cycle (SDLC), applying theoretical knowledge to a practical, real-world environment.
