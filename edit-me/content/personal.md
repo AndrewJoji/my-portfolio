@@ -3,7 +3,6 @@ givenName: Andrew
 familyName: Joji
 title: Software Developer
 location: Vancouver, CA
-email: andrewjoji71@gmail.com
 ---
 
 - I am a 3rd Year Computer Science Undergraduate at UBC.
