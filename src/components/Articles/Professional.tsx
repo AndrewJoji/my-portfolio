@@ -10,9 +10,9 @@ const Professional: React.FC = () => {
       <div className="container">
         <div className="flex justify-center text-center">
           <SectionHeading
-            icon={faBriefcase}
+            icon={fa-solid fa-code}
             level={2}
-            text="Professional Experience"
+            text="Experience"
           />
         </div>
 
