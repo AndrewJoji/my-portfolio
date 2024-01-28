@@ -5,7 +5,7 @@ import React from 'react';
 import { Heading } from '../Heading/Heading';
 import Prose from '../Prose/Prose';
 
-const AchievementItem: React.FC<Achievement> = ({
+const AchievementItem: React.FC<Education> = ({
   achievement,
   body,
   organization,
