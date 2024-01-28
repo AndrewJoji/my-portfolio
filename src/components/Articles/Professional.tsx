@@ -1,4 +1,4 @@
-import { faCode } from '@fortawesome/free-solid-svg-icons';
+import { faFileCode } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 import { sortedProfessionalExperiences } from 'src/helpers/utils';
 import { SectionHeading } from '../SectionHeading/SectionHeading';
@@ -10,7 +10,7 @@ const Professional: React.FC = () => {
       <div className="container">
         <div className="flex justify-center text-center">
           <SectionHeading
-            icon={fa-code}
+            icon={faFileCode}
             level={2}
             text="Experience"
           />
