@@ -1,7 +1,8 @@
 ---
 title: Software Developer Extern
 organization: Price Waterhouse Coopers
-startDate: Jan 2024 – Apr 2023
+startDate: Jan 2024
+endDate: Apr 2023
 ---
 
 - Managing an **agile** team of 8 developers, while creating a **full stack**, scalable Health and Safety System hosted on **GCP**.
