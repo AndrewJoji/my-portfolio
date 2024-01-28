@@ -3,15 +3,18 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import ButtonLink from '../Button/ButtonLink';
 
-const PDFDownloadButton = ({ pdfPath }) => {
+interface PDFDownloadButtonProps {
+  pdfPath: string; // Add the type for pdfPath here
+}
+
+cconst PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ pdfPath }) => {
   return (
     <ButtonLink href={pdfPath} size="lg">
       <FontAwesomeIcon icon={faFilePdf} size="lg" />
-      Download PDF
+      View or Download PDF
     </ButtonLink>
   );
 };
-
 // interface PDFDownloadButtonProps {
 //   secret?: string;
 // }
