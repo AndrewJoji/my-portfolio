@@ -10,4 +10,4 @@ endDate: Apr 2023
 - Targeting a 25% enhancement in highlighting trends in workplace incident types by orchestrating the integration of a **generative AI chatbot** using **Vertex AI**.
 - Implementing alerting and notification features for submission approvals, integrating email and SMS communication channels.
   
-This project is an externship as part of a university course, collaborating with PwC professionals through the entire Software Development Life Cycle (SDLC), applying theoretical knowledge to a practical, real-world environment.
+This project is an externship as part of a university course, collaborating with PwC professionals throughout the entire SDLC.
