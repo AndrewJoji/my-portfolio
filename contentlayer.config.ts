@@ -97,6 +97,90 @@ export const Achievement = defineDocumentType(() => ({
     },
   },
 }));
+export const LeadershipExperience = defineDocumentType(() => ({
+  name: 'LeadershipExperience',
+  filePathPattern: 'leadership/*.md',
+  fields: {
+    title: {
+      type: 'string',
+      description: 'The title of the leadership role',
+      required: true,
+    },
+    organization: {
+      type: 'string',
+      description: 'The organization where you held the role',
+      required: true,
+    },
+    startDate: {
+      type: 'string',
+      description: 'When you started the role',
+      required: true,
+    },
+    endDate: {
+      type: 'string',
+      description: 'When you ended the role (if applicable)',
+      required: false,
+    }
+  },
+}));
+
+
+export const BusinessExperience = defineDocumentType(() => ({
+  name: 'BusinessExperience',
+  filePathPattern: 'business/*.md',
+  fields: {
+    title: {
+      type: 'string',
+      description: 'The title or role in the business',
+      required: true,
+    },
+    organization: {
+      type: 'string',
+      description: 'The name of the business',
+      required: true,
+    },
+    startDate: {
+      type: 'string',
+      description: 'When you started the business',
+      required: true,
+    },
+    endDate: {
+      type: 'string',
+      description: 'When you ended your involvement (if applicable)',
+      required: false,
+    },
+  },
+}));
+
+
+export const Project = defineDocumentType(() => ({
+  name: 'Project',
+  filePathPattern: 'projects/*.md',
+  fields: {
+    title: {
+      type: 'string',
+      description: 'The title of the project',
+      required: true,
+    },
+    technologies: {
+      type: 'list',
+      of: { type: 'string' },
+      description: 'The technologies used in the project',
+      required: true,
+    },
+    startDate: {
+      type: 'string',
+      description: 'When the project started',
+      required: true,
+    },
+    endDate: {
+      type: 'string',
+      description: 'When the project ended (if applicable)',
+      required: false,
+    },
+  },
+}));
+
 
 export const AdditionalInfo = defineDocumentType(() => ({
   name: 'AdditionalInfo',
@@ -130,6 +214,9 @@ export default makeSource({
     Skill,
     ProfessionalExperience,
     Achievement,
+    LeadershipExperience,
+    BusinessExperience,
+    Project,
     AdditionalInfo,
     PrivateField,
   ],

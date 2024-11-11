@@ -1,4 +1,4 @@
-import { ImageResponse } from 'next/og';
+import { ImageResponse } from '@vercel/og';
 import { contrastColor } from '../helpers/colorContrast';
 import { getAccentColor } from '../helpers/colors';
 

@@ -1,6 +1,6 @@
 ---
-achievement: Bachelor's of Computer Science
-organization: University of British Columbia, Vancouver
+achievement: Bachelor of Science
+organization: University of British Columbia
 completionYear: 2025
 ---
 

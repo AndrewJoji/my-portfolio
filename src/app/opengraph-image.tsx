@@ -1,5 +1,5 @@
 import resumeConfig from 'edit-me/config/resumeConfig';
-import { ImageResponse } from 'next/og';
+import { ImageResponse } from '@vercel/og';
 import { getAccentColor, getNeutralColor } from 'src/helpers/colors';
 import { fullName } from 'src/helpers/utils';
 

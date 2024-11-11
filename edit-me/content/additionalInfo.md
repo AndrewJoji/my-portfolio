@@ -2,7 +2,7 @@
 title: Hobbies & Interests
 ---
 
-- **Film/Video Production** - Love working with diverse groups and turning ideas into reality. Currently Directing/ Producing a [documentary](https://youtu.be/Sq_529nFJoo) spotlighting service workers who work in the shadows.
+- **Film/Video Production** - Love working with diverse groups and turning ideas into reality. Directed/ Produced a [documentary](https://youtu.be/USU7CitwfMo?si=dltVsJUXSLMs1V-d) spotlighting service workers who work in the shadows.
 
 - **Astronomy** - An amateur astronomer who ponders the origins of the universe, camping under the stars.
 
