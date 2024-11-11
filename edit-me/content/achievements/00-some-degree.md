@@ -4,5 +4,5 @@ organization: University of British Columbia, Vancouver
 completionYear: 2025
 ---
 
-- I am a 3rd Year Computer Science Undergraduate.
+- I am a 4th Year Computer Science Undergraduate.
 - **Expected Graduation: April 2025**.
